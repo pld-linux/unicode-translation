@@ -1,5 +1,5 @@
 Summary:	Unicode character names translation
-Summary(pl.UTF-8):   Tłumaczenia nazw znaków unikodowych
+Summary(pl.UTF-8):	Tłumaczenia nazw znaków unikodowych
 Name:		unicode-translation
 Version:	0.0.1
 Release:	1
