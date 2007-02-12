@@ -1,5 +1,5 @@
 Summary:	Unicode character names translation
-Summary(pl):	T³umaczenia nazw znaków unikodowych
+Summary(pl.UTF-8):   TÅ‚umaczenia nazw znakÃ³w unikodowych
 Name:		unicode-translation
 Version:	0.0.1
 Release:	1
@@ -18,9 +18,9 @@ names and other data into many languages using the gettext framework.
 It is a subproject of project UTF-8
 (http://freedesktop.org/Software/utf-8).
 
-%description -l pl
-Celem projektu unicode-translation jest przet³umaczenie nazw znaków
-i innych danych zwi±zanych z Unikodem na wiele jêzyków przy u¿yciu
+%description -l pl.UTF-8
+Celem projektu unicode-translation jest przetÅ‚umaczenie nazw znakÃ³w
+i innych danych zwiÄ…zanych z Unikodem na wiele jÄ™zykÃ³w przy uÅ¼yciu
 szkieletu gettext. Jest to podprojekt projektu UTF-8
 (http://freedesktop.org/Software/utf-8).
 
